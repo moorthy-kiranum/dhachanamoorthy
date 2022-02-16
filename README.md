@@ -9,7 +9,7 @@
 #### LANGUAGES AND TOOLS : 
   
 <br/>
-<br/>
+<div align="center">
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,6 +23,7 @@
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+</div>
 
 <br/>
 
@@ -30,7 +31,8 @@
 #### GITHUB STATS : 
 <br>
   
-<p align="center">
+<div align="center">
+<p>
   <a href="https://github.com/dhachanamoorthy">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhachanamoorthy&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
@@ -38,6 +40,7 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhachanamoorthy&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
+    </div>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dhachanamoorthy)
