@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https:dhachanamoorthy.github.io">Moorthy<a><img src="https://github.com/dhachanamoorthy/dhachanamoorthy.github.io/blob/master/img/wave.gif" width="60px" /></h1>
     
 #### ABOUT ME :
-  💻 I’m currently working as an Backend Devoloped<br>
+  💻 I’m currently working as an Backend Devoloper<br>
   📚 I graduated with bachelor's degree in IT<br>
   📈 I experienced in Backend Devolopment , Spring Rest API Devlopment ,Data Modeling<br>
 
